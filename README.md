@@ -1,4 +1,4 @@
-# 🏄‍♂️ Merwin Sellote
+# 💀 Merwin Sellote
 BUKIDNON STATE UNIVERSITY BATCH 2022
 
 ### 🧰 Languages and Tools
@@ -17,6 +17,8 @@ BUKIDNON STATE UNIVERSITY BATCH 2022
 
 <details>
  <summary><h3>My Coding Journey</h3></summary>
-I DON'T KNOW BRO IM STILL LEARNING
--->
-[facebook]:https://www.facebook.com/sellote13
+I DON'T KNOW BRO IM STILL LEARNING. But, I am currently working on my Capstone. my study is about UV and Heat. I am making a device and a website that can display the UV and Heat reading. It's called FarmSafe. I am using Laravel and Python.
+--> <p>
+ [facebook]:https://www.facebook.com/sellote13
+</p>
+
